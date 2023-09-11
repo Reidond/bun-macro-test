@@ -169,3 +169,4 @@ dist
 .pnp.\*
 
 gen/
+gen-api-functions.js
